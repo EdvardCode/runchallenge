@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="runchallenge"
+version="1.0.0"
+displayName="Run Challenge"
+authors="EdvardCode"
+description='''Challenge mod for streaming - run specific distance with boss bar tracking'''

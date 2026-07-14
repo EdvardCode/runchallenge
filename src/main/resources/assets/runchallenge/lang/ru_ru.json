@@ -1,0 +1,46 @@
+{
+  "key.categories.runchallenge": "Run Challenge",
+  "key.runchallenge.gui": "Открыть меню челленджа",
+
+  "runchallenge.gui.title": "§6§lМеню челленджа",
+  "runchallenge.gui.playername": "Выберите игрока:",
+  "runchallenge.gui.distance": "Дистанция (в блоках):",
+  "runchallenge.gui.start": "§aСтарт",
+  "runchallenge.gui.stop": "§cСтоп",
+  "runchallenge.gui.tpstart": "§bВ начало",
+  "runchallenge.gui.pushback": "§dНазад -10",
+  "runchallenge.gui.status": "§eСтатус",
+  "runchallenge.gui.refresh": "§7Обновить",
+  "runchallenge.gui.close": "§7Закрыть",
+
+  "runchallenge.command.start": "§aЧеллендж начат для §6%s§a! Дистанция: §e%.0f §aблоков",
+  "runchallenge.command.start_self": "§aДля вас начат челлендж! Пробегите §e%.0f §aблоков!",
+  "runchallenge.command.stop": "§cЧеллендж остановлен для §6%s",
+  "runchallenge.command.status": "§e[§6%s§e] Прогресс: §6%.1f §e/ §6%.0f §eблоков (%.1f%%)",
+  "runchallenge.command.no_challenge": "§7У вас нет активного челленджа",
+  "runchallenge.command.no_challenge_player": "§7У игрока §6%s §7нет активного челленджа",
+  "runchallenge.command.player_only": "§cТолько игроки могут использовать эту команду!",
+  "runchallenge.command.tpstart": "§bИгрок §6%s §bтелепортирован в начало забега!",
+  "runchallenge.command.tpstart_self": "§bВы телепортированы в начало забега!",
+  "runchallenge.command.pushback_self": "§dВас откинуло назад на 10 блоков!",
+  "runchallenge.command.pushback_target": "§dИгрок §6%s §dоткинут назад на 10 блоков!",
+
+  "runchallenge.bossbar.title": "§bЗабег: §e%.1f §7/ §a%.0f §7блоков",
+  "runchallenge.bossbar.completed": "§a§lЧЕЛЛЕНДЖ ВЫПОЛНЕН!",
+
+  "runchallenge.chat.completed": "§6§lПоздравляем! §aВы пробежали %s блоков! §dЧеллендж выполнен!",
+  "runchallenge.chat.pushback": "§dВас откинуло назад на 10 блоков!",
+
+  "runchallenge.gui.msg.started": "§aЧеллендж запущен!",
+  "runchallenge.gui.msg.stopped": "§cЧеллендж остановлен!",
+  "runchallenge.gui.msg.tpstart": "§bТелепорт в начало!",
+  "runchallenge.gui.msg.pushback": "§dОткинут назад!",
+  "runchallenge.gui.msg.refreshed": "§eСписок обновлён!",
+
+  "runchallenge.command.player_not_found": "§cИгрок не найден: %s",
+  "runchallenge.command.pushback_error_start": "§cИгрок находится в точке старта, некуда откидывать!",
+  "runchallenge.command.no_players_online": "§7Нет игроков онлайн",
+  "runchallenge.command.players_online": "§eИгроки онлайн: §f%s",
+  "runchallenge.command.status_active": " §a[В забеге: %s/%s]",
+  "runchallenge.command.status_none": " §7[Нет забега]"
+}

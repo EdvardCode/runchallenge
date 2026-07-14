@@ -1,0 +1,46 @@
+{
+  "key.categories.runchallenge": "Run Challenge",
+  "key.runchallenge.gui": "Open Challenge Menu",
+
+  "runchallenge.gui.title": "§6§lChallenge Menu",
+  "runchallenge.gui.playername": "Select Player:",
+  "runchallenge.gui.distance": "Distance (in blocks):",
+  "runchallenge.gui.start": "§aStart",
+  "runchallenge.gui.stop": "§cStop",
+  "runchallenge.gui.tpstart": "§bTo Start",
+  "runchallenge.gui.pushback": "§dBack -10",
+  "runchallenge.gui.status": "§eStatus",
+  "runchallenge.gui.refresh": "§7Refresh",
+  "runchallenge.gui.close": "§7Close",
+
+  "runchallenge.command.start": "§aChallenge started for §6%s§a! Distance: §e%.0f §ablocks",
+  "runchallenge.command.start_self": "§aChallenge started! Run §e%.0f §ablocks!",
+  "runchallenge.command.stop": "§cChallenge stopped for §6%s",
+  "runchallenge.command.status": "§e[§6%s§e] Progress: §6%.1f §e/ §6%.0f §eblocks (%.1f%%)",
+  "runchallenge.command.no_challenge": "§7You have no active challenge",
+  "runchallenge.command.no_challenge_player": "§7Player §6%s §7has no active challenge",
+  "runchallenge.command.player_only": "§cOnly players can use this command!",
+  "runchallenge.command.tpstart": "§bPlayer §6%s §bteleported to start!",
+  "runchallenge.command.tpstart_self": "§bYou have been teleported to start!",
+  "runchallenge.command.pushback_self": "§dYou have been pushed back 10 blocks!",
+  "runchallenge.command.pushback_target": "§dPlayer §6%s §dpushed back 10 blocks!",
+
+  "runchallenge.bossbar.title": "§bRun: §e%.1f §7/ §a%.0f §7blocks",
+  "runchallenge.bossbar.completed": "§a§lCHALLENGE COMPLETED!",
+
+  "runchallenge.chat.completed": "§6§lCongratulations! §aYou ran %s blocks! §dChallenge completed!",
+  "runchallenge.chat.pushback": "§dYou have been pushed back 10 blocks!",
+
+  "runchallenge.gui.msg.started": "§aChallenge started!",
+  "runchallenge.gui.msg.stopped": "§cChallenge stopped!",
+  "runchallenge.gui.msg.tpstart": "§bTeleported to start!",
+  "runchallenge.gui.msg.pushback": "§dPushed back!",
+  "runchallenge.gui.msg.refreshed": "§eList refreshed!",
+
+  "runchallenge.command.player_not_found": "§cPlayer not found: %s",
+  "runchallenge.command.pushback_error_start": "§cPlayer is at the start point, nowhere to push back!",
+  "runchallenge.command.no_players_online": "§7No players online",
+  "runchallenge.command.players_online": "§ePlayers online: §f%s",
+  "runchallenge.command.status_active": " §a[Running: %s/%s]",
+  "runchallenge.command.status_none": " §7[No challenge]"
+}
